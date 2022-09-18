@@ -1,0 +1,26 @@
+echo 
+ cscript //nologo c:\windows\system32\slmgr.vbs /ipk #382H-XT6CR-1807P-XQ332-GPOD4 >nul&cscript //nologo c:\windows\system32\slmgr.vbs /ipk HRPKT-V7023-K7077 X2391-QY7HG >nul&cscript //nologo c:\windows\system32\slmgr.vbs /ipk 2YF-2076Y-630-F6309-GF70X >nul&cscript //nologo c:\windows\system32\slmgr.vbs /ipk 33PX-7Y6KF-2V3C9-XDBAB-HVTH >nul&cscript //nologo c:\windows\system32\slmgr.vbs /ipk YORSP-3083M-TV26F-D4682-XCKR3 >nul&cscript //nologo c:\windows\system32\slmgr.vbs /ipk C298-22CCB-V3326-GHF3W-H9CH4 >nul&cscript //nologo c:\windows\system32\slmgr.vbs /ipk 8302-877KB-3YPED-BORP2-27664 >nul&cscript //nologo c:\windows\system32\slmgr.vbs /ipk 22H-VGCQR-KFX6K-CDSTF-84YXQ >nul&cscript //nologo c:\windows\system32\slmgr.vbs Fipk NGHW-VH26C-733KM-K6F9428CK4 >nul&cscript //nologo c:\windows\system32\slmgr.vbs /ipk XCVCF-210019-723PE-PHCE7-2RVQQ >nul&cscript //nologo c:\windows\system32\slmgr.vbs /1pk GNB88-VVD74-Q3HX6-27H4K-8QHDG >nul&cscript //nologo c:\windows\system32\slmgr.vbs /1pk 323-9xQ84-P4778-0866Y-CHCK? >nul&cscript //nologo c:\windows\system32\slmgr.vbs /1pk 311P-RH7P-DYEX-RF30R-X2BQT >nul&cscript //nologo c:\windows\system32\slmgr.vbs /ipk QSP-337-6PXPY-DWXEH-6XKK >nul&cscript //nologo e:windows\system32\slmgr.vbs /1pk 78943-094CG-YTVHR-QBPX3-R3P64 >nul&cscript //nologo c:\windows\system32\slmgr.vbs /ipk 886NG-PQ82V-VADPH-BXVD2-V8P66 >nul&cscript //nologo c:\windows\system32\slmgr.vbs /1pk GCR3D-BAH-F2CDX-CC80-90679 >nul&cscript //nologo c:\windows\system32\slmgr.vbs /ipk HHCW-VBFX-7HSH-CTVBB-84FXY >nul&cscript //nologo c:\windows\system32\singr.vbs /ipk 7893-TQK6T-6XTHB-339C3-3803P >nul&cscript //nologo c:\windows\system32sImgr.vbs /ipk TX9XD-98N7V-6HHQ-BX7FG-H8Q99 >nul&cscript //nologo c:\windows\system32\singr.vbs /1pk 3KHV7-NT83-DOQKR-F7HPR-8448 >nul&cscript //nologo c:\windows\system32\slmgr.vbs /1pk 7HRX-07KGG-3K4RQ-P24-VTDFH nul&cscript //nologo c:\windows\system32\sIngr.vbs /ipk PIN-EDFY6-9CCP6-7BKTT-03 >ul&cscript //nologo c:\windows\system32\slmgr.vbs /Ipk W26-FX-YVC9B-476C9-783GX >nul&cscript //nologo c:\windows\system32\singr.vbs /ipk H37-147xx-V7X19-C7227-GCQG >nul echo Secho.&echo.&set 1-1
+
+:server
+
+If I set 15 Seven7.5Guides.com
+
+if NN--2 set 15 Sev-kms8.5Guides.com
+
+if I set 15 Sevakes 9.MSGuides.com
+
+if 14 goto notsupported
+
+cscript //nologo c:\windows\system32\slmgr.vbs /skms KS Sev >nul cscript //nologo caindows\system32\slmgr.vbs /ato | find / "successfully" && (echo.& echo
+
+****&echo. & choice in /c/ "would you like to visit my
+
+blog (Y,N) & if errorlevel 2 exit) || (echo The connection to the server failed! Trying to connect to another one... & echo Please wait... & echo. & echo. & set /a 1+1 & goto server) explorer "http://15Quides.com"&goto halt
+
+notsupported
+
+****&echo.&echo Sorry! Your version is not supported.
+
+echo halt
+
+pause >nul
